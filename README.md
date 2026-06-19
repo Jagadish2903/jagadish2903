@@ -58,8 +58,6 @@ I'm a **QA Automation Engineer** with hands-on experience in building robust tes
 
 ## 📂 Featured Projects
 
-> *(Add your pinned repos below — here are some ideas to showcase)*
-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔧 `selenium-java-framework` | Page Object Model framework with TestNG & Allure reporting | Java, Selenium, TestNG |
