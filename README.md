@@ -11,7 +11,6 @@
 
 I'm a **QA Automation Engineer** with hands-on experience in building robust test automation frameworks for web and API layers. I'm passionate about delivering high-quality software through scalable test strategies, shift-left practices, and CI/CD integration.
 
-- 🏢 Currently working at **Tavant Technologies**, Bangalore
 - 🔭 Working on automation frameworks for **mortgage technology** platforms
 - 🌱 Exploring **AI-assisted testing** and intelligent test generation
 - 💬 Ask me about **test architecture, framework design, and QA best practices**
